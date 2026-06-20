@@ -10,7 +10,7 @@
 ![Retrieval](https://img.shields.io/badge/Retrieval-Hybrid_(BM25_%2B_Embeddings)-F06ABF)
 ![Deploy](https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white)
 
-📦 **App repo:** [AI-RAG-Research-Assistant](https://github.com/Swarali603/AI-RAG-Research-Assistant) · 📝 **Case study:** [AI-RAG-Case-Study](https://github.com/Swarali108/AI-RAG-Case-Study)
+📦 **App repo:** [AI-RAG-Research-Assistant](https://github.com/Swarali108/AI-RAG-Research-Assistant) · 📝 **Case study:** [AI-RAG-Case-Study](https://github.com/Swarali108/AI-RAG-Case-Study)
 
 </div>
 
